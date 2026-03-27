@@ -1,6 +1,6 @@
 function [BestFitness, BestPos, convergence_curve] = QGWO(MaxWolves, MaxIter, ub, lb, dim, f)
 % Quantum-inspired Grey Wolf Optimizer (QGWO)
-% Author: (Your Name)
+% Author: Manan Mal
 % Date: 2025
 %
 % Inputs:
