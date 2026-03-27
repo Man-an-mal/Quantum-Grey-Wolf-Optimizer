@@ -2,7 +2,7 @@
 
 A MATLAB implementation of the **Quantum-inspired Grey Wolf Optimizer (QGWO)** — an enhanced metaheuristic that extends the classical Grey Wolf Optimizer (GWO) with a probabilistic, quantum-behaved position update mechanism inspired by Quantum-behaved Particle Swarm Optimization (QPSO).
 
-> ⚠️ **Work in Progress** — This repository is under active development. Benchmark results, additional test cases, and documentation will be updated as the project matures.
+> ⚠️ **Work in Progress** — This repository is under active development. Benchmark results and additional test cases will be updated as the project matures.
 
 ---
 
