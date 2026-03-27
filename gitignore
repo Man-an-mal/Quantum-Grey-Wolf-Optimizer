@@ -1,0 +1,53 @@
+# -------------------------
+# MATLAB generated files
+# -------------------------
+
+# Auto-save and backup files
+*.asv
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+*.mexw32
+*.mexw64
+*.mexmaci64
+*.mexglx
+*.mexa64
+
+# Simulink files (if any)
+*.slx.autosave
+*.slxc
+
+# Saved workspace / variable data
+*.mat
+
+# MATLAB code analysis
+*.mlint
+
+# Temporary build artifacts
+helperFiles/
+
+# -------------------------
+# Output / results folders
+# -------------------------
+results/
+output/
+figures/
+plots/
+
+# -------------------------
+# OS-generated files
+# -------------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
